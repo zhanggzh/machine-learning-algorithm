@@ -77,7 +77,7 @@ _下面是一个示例，说明如何指导观众安装和设置应用程序。�
 
 2. SMO算法求解结果
 
-![img_2](img/V37}IOEPWBPU$K17ZGN_K55.png)
+![img_2](img/]MWL({%OOM)KQDXVY%65S8H.png)
 
 
 
