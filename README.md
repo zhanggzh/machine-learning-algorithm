@@ -73,11 +73,11 @@ _下面是一个示例，说明如何指导观众安装和设置应用程序。�
 
 1. 朴素法求解结果
 
-![img_1](../img/)
+![img_1](img/V37}IOEPWBPU$K17ZGN_K55.png)
 
 2. SMO算法求解结果
 
-![img_2](../img/)
+![img_2](img/V37}IOEPWBPU$K17ZGN_K55.png)
 
 
 
